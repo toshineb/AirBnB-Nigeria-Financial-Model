@@ -31,13 +31,13 @@ Built by a **data analyst and data scientist**, this dynamic Excel model allows 
 - **📊 P&L Statement**  
   ![](./Screenshot%202025-07-03%20201731.png)
 
-- **💸 Cash Flow Statement**  
+- **💸 P&L Statement**  
   ![](./Screenshot%202025-07-03%20201742.png)
 
 - **📘 Balance Sheet Overview**  
   ![](./Screenshot%202025-07-03%20201753.png)
 
-- **📐 Calculations Sheet**  
+- **📐 Cash Flow Statement**  
   ![](./Screenshot%202025-07-03%20201809.png)
 
 ---
